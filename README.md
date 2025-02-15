@@ -61,9 +61,9 @@ Original Spotify with long player bar and spinning small artwork.
 Pretty good and several themes, but some minor bugs.
 ![Bloom.png](bloom.png)
 
-### [Dribbblish](https://github.com/spicetify/spicetify-themes/blob/master/THEMES.md#dribbblish)
+### [Dribblish](https://github.com/spicetify/spicetify-themes/blob/master/THEMES.md#dribbblish)
 
-Currently has bugs in top bar. If not for that, ver y good option with tons of color schemes.
+Currently has bugs in top bar. If not for that, very good option with tons of color schemes.
 ![Dribblish.png](Dribblish.png)
 
 ### [Fluent](https://github.com/williamckha/spicetify-fluent)
