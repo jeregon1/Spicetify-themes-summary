@@ -26,7 +26,7 @@ Not buggy, dynamic in accent color and dark/light mode. Amazing.
 
 (Go to github to get the command to enable auto dark/light mode in spotify)
 
-### [Classic Dynamic](https://github.com/JulienMaille/spicetify-dynamic-theme)
+### [Default Dynamic](https://github.com/JulienMaille/spicetify-dynamic-theme)
 
 Basically classic spotify with dynamic accent color and dark/light mode. Dope.
 ![Classic Dynamic.png](ClassicDynamic.png)
